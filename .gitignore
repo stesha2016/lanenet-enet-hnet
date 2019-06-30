@@ -1,0 +1,11 @@
+.PyCharm2017.3/
+data_provider/*.pyc
+encoder_decoder_model/*.pyc
+lanenet_model/*.pyc
+config/*.pyc
+data/tusimple_data/
+/*.png
+tboard/*
+model/
+out/
+test.py
